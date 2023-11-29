@@ -7,7 +7,7 @@ import java.io.FileReader;
 import java.io.IOException;
 
 @Slf4j
-public class Program03 {
+public class Aula216 {
     public static void main(String[] args) {
 
         String path = "/home/tqi_jtorres/Estudos/in.txt";

@@ -3,10 +3,9 @@ package com.arquivos.udemytrabalhandocomarquivos;
 import lombok.extern.slf4j.Slf4j;
 
 import java.io.*;
-import java.util.Scanner;
 
 @Slf4j
-public class Program02 {
+public class Aula215 {
     public static void main(String[] args) {
 
         String path = "/home/tqi_jtorres/Estudos/in.txt";

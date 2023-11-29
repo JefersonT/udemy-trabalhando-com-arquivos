@@ -7,7 +7,7 @@ import java.io.IOException;
 import java.util.Scanner;
 
 @Slf4j
-public class Program01 {
+public class Aula214 {
     public static void main(String[] args) {
 
         File file = new File("/home/tqi_jtorres/Estudos/in.txt");

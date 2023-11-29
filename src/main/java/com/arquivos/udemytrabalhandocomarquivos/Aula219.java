@@ -6,7 +6,7 @@ import java.io.File;
 import java.util.Scanner;
 
 @Slf4j
-public class Program06 {
+public class Aula219 {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);

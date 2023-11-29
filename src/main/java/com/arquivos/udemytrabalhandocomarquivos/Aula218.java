@@ -2,14 +2,11 @@ package com.arquivos.udemytrabalhandocomarquivos;
 
 import lombok.extern.slf4j.Slf4j;
 
-import java.io.BufferedWriter;
 import java.io.File;
-import java.io.FileWriter;
-import java.io.IOException;
 import java.util.Scanner;
 
 @Slf4j
-public class Program05 {
+public class Aula218 {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);

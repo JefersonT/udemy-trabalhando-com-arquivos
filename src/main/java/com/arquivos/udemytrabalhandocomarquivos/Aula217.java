@@ -5,7 +5,7 @@ import lombok.extern.slf4j.Slf4j;
 import java.io.*;
 
 @Slf4j
-public class Program04 {
+public class Aula217 {
     public static void main(String[] args) {
 
         String[] lines = new String[] {"Good night", "Good afternoon", "Good morning" };
